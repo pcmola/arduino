@@ -14,11 +14,7 @@ Part2	HC-SR04
 
 Part3	Arduino Uno (Rev3)
 
-
-
-
-
-
+#
 
 ## Circuit
 
