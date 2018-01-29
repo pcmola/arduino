@@ -22,9 +22,9 @@ Part3	| Arduino Uno (Rev3)
 
 #
 ## References
-[1] [Ultrasonic Sensor](http://mechasolutionwiki.com/index.php?title=HC-SR04_%EC%B4%88%EC%9D%8C%ED%8C%8C_%EA%B1%B0%EB%A6%AC%EC%84%BC%EC%84%9C)
+[1] [HC-SR04 Ultrasonic Sensor](http://mechasolutionwiki.com/index.php?title=HC-SR04_%EC%B4%88%EC%9D%8C%ED%8C%8C_%EA%B1%B0%EB%A6%AC%EC%84%BC%EC%84%9C)
 
-[2] [Lego Train Control Using IR Transmitter](https://github.com/jurriaan/Arduino-PowerFunctions)
+[2] [Lego Power Functions Infrared Control for Arduino](https://github.com/jurriaan/Arduino-PowerFunctions)
 
 
 #
