@@ -22,8 +22,8 @@ https://postfiles.pstatic.net/MjAxODAxMjhfMjU2/MDAxNTE3MTQzMzE0NjY0.ObJ_yzonmjms
 
 
 ## References
-[1] http://mechasolutionwiki.com/index.php?title=HC-SR04_%EC%B4%88%EC%9D%8C%ED%8C%8C_%EA%B1%B0%EB%A6%AC%EC%84%BC%EC%84%9C
-[2] https://github.com/jurriaan/Arduino-PowerFunctions
+[1] [Ultrasonic Sensor](http://mechasolutionwiki.com/index.php?title=HC-SR04_%EC%B4%88%EC%9D%8C%ED%8C%8C_%EA%B1%B0%EB%A6%AC%EC%84%BC%EC%84%9C)
+[2] [Lego Train Control Using IR Transmitter](https://github.com/jurriaan/Arduino-PowerFunctions)
 
 
 ## Full Explain Page
