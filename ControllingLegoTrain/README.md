@@ -31,6 +31,6 @@ Part3	Arduino Uno (Rev3)
 
 
 #
-## Full Explain Page
+## Full Explanation Page
 https://blog.naver.com/pcmola/221195632598
 
