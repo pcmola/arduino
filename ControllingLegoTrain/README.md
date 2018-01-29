@@ -3,16 +3,17 @@
 
 ## Bill Of Materials
 
-Label	Part Type
-LED1	Red (633nm) LED
-
-R1	220Ω Resistor
-
-Part1	KY-005 Infrared Transmitter Module
-
-Part2	HC-SR04
-
-Part3	Arduino Uno (Rev3)
+Label	| Part Type
+__________________
+LED1	| Red (633nm) LED
+__________________
+R1 | 220Ω Resistor
+__________________
+Part1	| KY-005 Infrared Transmitter Module
+__________________
+Part2	| HC-SR04
+__________________
+Part3	| Arduino Uno (Rev3)
 
 #
 ## Circuit
