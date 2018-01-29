@@ -4,7 +4,7 @@
 ## Bill Of Materials
 
 Label	| Part Type
---------------------
+------|--------------
 LED1	| Red (633nm) LED
 R1 | 220Ω Resistor
 Part1	| KY-005 Infrared Transmitter Module
