@@ -6,9 +6,9 @@
 Label	| Part Type
 ------|--------------
 LED1	| Red (633nm) LED
-R1 | 220Ω Resistor
+R1    | 220Ω Resistor
 Part1	| KY-005 Infrared Transmitter Module
-Part2	| HC-SR04
+Part2	| HC-SR04 Ultrasonic Sensor
 Part3	| Arduino Uno (Rev3)
 
 #
