@@ -4,7 +4,7 @@
 ## Prerequisite
 You have to have PowerFunctions.cpp, PowerFunctions.h file.
 
-Those files could be downloaded at https://github.com/jurriaan/Arduino-PowerFunctions .
+These files could be downloaded at https://github.com/jurriaan/Arduino-PowerFunctions .
 
 #
 ## Bill Of Materials
