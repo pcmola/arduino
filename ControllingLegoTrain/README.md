@@ -24,7 +24,7 @@ Part3	| Arduino Uno (Rev3)
 
 #
 ## Movie
-[(YouTube)Controlling Lego Train By Palm](https://youtu.be/TcMr4UbcUNo)
+[YouTube - Controlling Lego Train By Palm](https://youtu.be/TcMr4UbcUNo)
 
 #
 ## References
