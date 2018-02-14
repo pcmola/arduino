@@ -1,5 +1,5 @@
 
-# Controlling Lego Train By Parm Using Arduino, Ultrasonic Sensor, IR Transmitter
+# Controlling Lego Train By Parm Using Arduino, Ultrasonic Sensor and IR Transmitter
 
 ## Prerequisite
 You must have PowerFunctions.cpp, PowerFunctions.h file in advance.
