@@ -3,7 +3,7 @@
 
 ![Snapshot](https://postfiles.pstatic.net/MjAxODAxMjhfODYg/MDAxNTE3MTUwOTM4Mjc2.YL84bLLy0iOVzgMu2ipX0LmC_z6SB9mWoDD0_AkqPsYg.Bxs1Z1z7_ugDtbG1jgFj1wVbXSbPzHvvR9u76VJi6J0g.PNG.pcmola/IMG_9762_0000011006ms.png?type=w773)
 
-![Snapshot](https://blog.naver.com/PostThumbnailView.nhn?blogId=pcmola&Redirect=ThumbnailView&logNo=221209002237&categoryNo=30&isAfterWrite=true&proxyReferer=http%3A%2F%2Fblog.editor.naver.com%2Feditor%3FdocId%3D221209002237&redirect=ThumbnailView&widgetTypeCall=true&topReferer=http%3A%2F%2Fblog.editor.naver.com%2Feditor%3FdocId%3D221209002237&directAccess=false#)
+![Snapshot](https://blogfiles.pstatic.net/MjAxODAzMjNfMTky/MDAxNTIxNzM0MDI3MDk3.Bv8Sf-T5MEnHxsIt0_YGFSOqO_LBvQxnCN188WgBvr4g.hTyRdO5RL1A-LB2A8MXVinF3mE4r3Opv3_hfLDitHssg.PNG.pcmola/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.PNG)
 
 ## Prerequisite
 You must have PowerFunctions.cpp, PowerFunctions.h file in advance.
