@@ -1,5 +1,5 @@
 
-# Controlling Lego Train By Parm Using Arduino, Ultrasonic Sensor and IR Transmitter
+# Magic Train
 
 ![Snapshot](https://postfiles.pstatic.net/MjAxODAxMjhfODYg/MDAxNTE3MTUwOTM4Mjc2.YL84bLLy0iOVzgMu2ipX0LmC_z6SB9mWoDD0_AkqPsYg.Bxs1Z1z7_ugDtbG1jgFj1wVbXSbPzHvvR9u76VJi6J0g.PNG.pcmola/IMG_9762_0000011006ms.png?type=w773)
 
